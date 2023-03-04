@@ -8,7 +8,7 @@ Here is my [Component 1 code](/Component1/Assignment2.cpp)
 Here is my [Component 1 document](/Component1/Component_1.pdf)  
 
 #Component 2
-Here is my [Classification](/Component2/Classification.pdf)
+Here is my [Classification](/Component2/Classification.pdf)  
 Here is my [Regression](/Component2/Regression.pdf)
 
 # Component 3
