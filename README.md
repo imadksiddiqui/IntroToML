@@ -9,5 +9,5 @@ Here is my [Component 1 document](/Component1/Component_1.pdf)
 
 
 # Component 3
-Here is my [Component 3 code](/Component3/LogReg.cpp)
+Here is my [Component 3 code](/Component3/LogReg.cpp)   
 Here is my [Component 3 document](/Component3/Document.pdf)
